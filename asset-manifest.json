@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sumedha1308.github.io/csb-b2j6rb/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://sumedha1308.github.io/csb-b2j6rb/static/js/main.896a948c.chunk.js",
-    "main.js.map": "https://sumedha1308.github.io/csb-b2j6rb/static/js/main.896a948c.chunk.js.map",
+    "main.js": "https://sumedha1308.github.io/csb-b2j6rb/static/js/main.ba9e0df0.chunk.js",
+    "main.js.map": "https://sumedha1308.github.io/csb-b2j6rb/static/js/main.ba9e0df0.chunk.js.map",
     "runtime-main.js": "https://sumedha1308.github.io/csb-b2j6rb/static/js/runtime-main.a833f9c4.js",
     "runtime-main.js.map": "https://sumedha1308.github.io/csb-b2j6rb/static/js/runtime-main.a833f9c4.js.map",
     "static/js/2.bb18e0a0.chunk.js": "https://sumedha1308.github.io/csb-b2j6rb/static/js/2.bb18e0a0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a833f9c4.js",
     "static/js/2.bb18e0a0.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.896a948c.chunk.js"
+    "static/js/main.ba9e0df0.chunk.js"
   ]
 }
